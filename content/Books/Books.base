@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Books"
+    order:
+      - file.name
+      - author
+      - tags
+      - coauthor
+      - file.links
+    sort:
+      - property: tags
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.author: 115
+      note.tags: 140
