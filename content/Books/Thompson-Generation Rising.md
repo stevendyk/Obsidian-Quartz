@@ -4,7 +4,7 @@ permalink: /Books/Thompson-Generation Rising.md
 aliases:
   - "Generation Rising: A Future with Hope for the United Methodist Church"
 title: Thompson-Generation Rising
-modified: 2026-11-17T16:10:07.099Z
+modified: 2026-11-17T16:21:29.300Z
 ---
 
 # Generation Rising
@@ -135,7 +135,7 @@ Our primary style of reading the Bible is as if it were an encyclopedia of basic
 
 ---
 
-## Evangelism
+## 4 Evangelism
 
 First, our view of evangelism is narrowed down to the work of making the church inviting and appealing to new generations of religious "consumers." — location: [953](kindle://book?action=open\&asin=B004U5GB6S\&location=953) ^ref-4979
 
